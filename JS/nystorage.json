@@ -1,0 +1,97 @@
+{
+    "luker": {
+      "Luke 1": {
+        "quizText": "Hva er sangtittelen til denne kjente julelåten?",
+        "hints": {
+          "hint1": "Verdens beste julesang",
+          "hint2": "Britisk band. 70 tallet."
+        },
+        "correctAnswer": "Merry xmas everyone",
+        "audioFileRef": "lydfiler/luke1.mp3"
+      },
+      "Luke 2": {
+        "quizText": "Ikke alle oppgavene i denne kalenderen skal være julesanger. Vi skal selvfølgelig også ha litt ska-musikk! Hvilken låt?",
+        "hints": {
+          "hint1": "Britisk bank 80-tallet",
+          "hint2": "RUDEBOY"
+        },
+        "correctAnswer": "A Message to you Rudy",
+        "audioFileRef": "lydfiler/luke2.mp3"
+      },
+      "Luke 3": {
+        "quizText": "Hva med litt god gammal Oppland?",
+        "hints": {
+          "hint1": "Full behandling",
+          "hint2": "Norsk band fra det som nå heter Innlandet."
+        },
+        "correctAnswer": "Traktor med henger",
+        "audioFileRef": "lydfiler/luke3.mp3"
+      },
+      "Luke 4": {
+        "quizText": "Hvilken låt har denne saksofonsoloen?",
+        "hints": {
+          "hint1": "Fyren er født i 1933",
+          "hint2": "Hentet fra albumet med samme navn som låta"
+        },
+        "correctAnswer": "The Dude",
+        "audioFileRef": "lydfiler/Luke4.mp3"
+      },
+      "Luke 5": {
+        "quizText": "I dag skal vi til Norge, og til en akapellagruppe. Hva heter låta",
+        "hints": {
+          "hint1": "Sangen handler om solkysten i Norge.",
+          "hint2": "Akapellagruppa er fra Romerike"
+        },
+        "correctAnswer": "Bamble",
+        "audioFileRef": "lydfiler/Luke5.mp3"
+      },
+      "Luke 6": {
+        "quizText": "Hva er en musikkquiz uten rap musikk?",
+        "hints": {
+          "hint1": "Ung rapper skutt i 2021",
+          "hint2": "Svenske tilstander"
+        },
+        "correctAnswer": "Dansa",
+        "audioFileRef": "lydfiler/Luke6.mp3"
+      },
+      "Luke 7": {
+        "quizText": "Vi holder oss til Sverige med dagens låt også.",
+        "hints": {
+          "hint1": "Den flyvende gutten",
+          "hint2": "Astrid L."
+        },
+        "correctAnswer": "Karlsson på taket",
+        "audioFileRef": "lydfiler/Luke7.mp3"
+      },
+      "Luke 8": {
+        "quizText": "Da henter vi frem den blå plata dere. Den blå plata.",
+        "hints": {
+          "hint1": "Vokalisten er ikke i slekt med en tidligere guvernør i USA",
+          "hint2": "Hei. Mitt navn er Wepeel, og dette er det andre hintet."
+        },
+        "correctAnswer": "My name is Jonas",
+        "audioFileRef": "lydfiler/Luke8.mp3"
+      },
+      "Luke 9": {
+        "quizText": "Fans av dette bandet mener musikken døde når de la opp. Samtidig hater de alle nyere band som høres ut som de. Hvilket BAND skal vi frem til?",
+        "hints": {
+          "hint1": "Verdens beste britiske band?",
+          "hint2": "Navnet på bandet er inspirert av et fartøy som ikke er så spesielt vanlig å se lenger, etter en enorm katastrofe i 1937."
+        },
+        "correctAnswer": "Led Zeppelin",
+        "audioFileRef": "lydfiler/Luke9.mp3"
+      },
+      "Luke 10": {
+        "quizText": "Fra det mange mener er verdens beste band, skal vi til det JEG mener er verdens beste navn. Navnet på låta?",
+        "hints": {
+          "hint1": "Is there anybody here with a little Irish in them?",
+          "hint2": "Is there any of the girls, who would like a little more Irish in them?"
+        },
+        "correctAnswer": "Emerald",
+        "audioFileRef": "lydfiler/Luke10.mp3"
+
+
+
+    }
+  }
+  

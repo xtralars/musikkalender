@@ -1,0 +1,100 @@
+{
+    "julekalender":[
+        {
+            "day":1,
+            "sang":"alex",
+            "correctAnswer":"Lars er kul",
+            "audioURL":"luke1.mp3",
+            "opgtext": "Dag 1 oppgavetekst som kan inneholde litt av hvert",            
+            "hint1": "Hvem er jeg",
+            "hint2": "Mitt navn"
+        },
+        {
+            "day":2,
+            "sang":"johnny",
+            "correctAnswer":"Lars er kjempekul",
+            "audioURL":"luke2.mp3",
+            "opgtext": "Dag 2 oppgavetekst som kan inneholde litt av hvert",            
+            "hint1": "Hvem er jeg",
+            "hint2": "Mitt navn"
+        },
+        {
+    "julekalender"[
+                "dag3":{
+                        "id":3,
+                        "audioURL":"audio/day3.mp3",
+                        "opgtext": "Day 3 Text",
+                        "fasit": "Lars",
+                        "hint": {
+                                "hint1":"Hvem er jeg",
+                                "hint2":"Mitt navn"
+                                }
+                        },
+                "dag4":{
+                        "id":4,
+                        "audioURL":"audio/day3.mp3",
+                        "opgtext": "Day 4 Text",
+                        "fasit": "Lars",
+                        "hint": {
+                                "hint1":"Hvem er jeg",
+                                "hint2":"Mitt navn"
+                                }
+                        }
+    ]
+            
+        },
+        {
+            "id":4,
+            "audioURL":"audio/day2.mp3",
+            "text": "Day 4 Text",
+            "fasit": "Lars",
+            "hint1": "Hvem er jeg",
+            "hint2": "Mitt navn"
+        },
+        {
+            "id":5,
+            "audioURL":"audio/day2.mp3",
+            "text": "Day 5 Text",
+            "fasit": "Lars",
+            "hint1": "Hvem er jeg",
+            "hint2": "Mitt navn"
+        },
+        {
+            "id":6,
+            "audioURL":"audio/day2.mp3",
+            "text": "Day 6 Text",
+            "fasit": "Lars",
+            "hint1": "Hvem er jeg",
+            "hint2": "Mitt navn"
+        },
+        {
+            "id":7,
+            "audioURL":"audio/day2.mp3",
+            "text": "Day 6 Text",
+            "fasit": "Lars",
+            "hint1": "Hvem er jeg",
+            "hint2": "Mitt navn"
+        },
+        {
+            "id":8,
+            "audioURL":"audio/day2.mp3",
+            "text": "Day 6 Text",
+            "fasit": "Lars",
+            "hint1": "Hvem er jeg",
+            "hint2": "Mitt navn"
+        },
+        {
+            "id":9,
+            "audioURL":"audio/day2.mp3",
+            "text": "Day 6 Text",
+            "fasit": "Lars",
+            "hint1": "Hvem er jeg",
+            "hint2": "Mitt navn"
+        }
+        
+        
+        
+    ]
+}
+
+
